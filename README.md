@@ -19,9 +19,8 @@ Welcome to my internship repository for the **Nexium AI-Driven Web Development P
 
 - [x] **Day 1** – Environment Setup (Node.js, VS Code, Git, Vercel, MongoDB, Supabase)
 - [x] **Assignment 1** – Motivational Quote Generator (Next.js + Tailwind + ShadCN)
-  - 🔗 **[Live App on Vercel](https://nexium-arayash-internship-p3vq-git-main-arayashs-projects.vercel.app)**
-  - 🖼️ **Screenshot**  
-    ![Screenshot](https://nexium-arayash-internship-p3vq-git-main-arayashs-projects.vercel.app/screenshot.png)
+  - 🔗 **[Live App on Vercel](https://nexium-arayash-internship-g7vl.vercel.app/)**
+  
 
 ---
 

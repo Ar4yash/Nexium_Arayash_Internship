@@ -4,11 +4,9 @@ This is a simple AI-inspired web app built during my Nexium AI-Driven Web Develo
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the app](https://nexium-arayash-internship-p3vq-git-main-arayashs-projects.vercel.app)
+👉 [Click here to view the app](https://nexium-arayash-internship-g7vl.vercel.app/)
 
-## 📸 Screenshot
 
-![App Preview](https://nexium-arayash-internship-p3vq-git-main-arayashs-projects.vercel.app/screenshot.png)
 
 ## 🚀 Features
 
